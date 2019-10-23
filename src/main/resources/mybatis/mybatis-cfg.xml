@@ -8,6 +8,6 @@
 		<typeAlias type="com.zhjie.pojo.User" alias="User" />
 	</typeAliases>
 	<mappers>
-		<mapper resource="com/zhjie/mapper/UserMapper.xml" />
+		<mapper resource="src/main/resources/mapper/UserMapper.xml" />
 	</mappers>
 </configuration>
